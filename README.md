@@ -2,8 +2,6 @@
 
 **Исходный код сайта [totemcraft.net](https://totemcraft.net)**
 
-Форк [www-rpcs3](https://github.com/DAGINATSUKO/www-rpcs3) - адаптирован под проект TotemCraft.
-
 ---
 
 ## О проекте
