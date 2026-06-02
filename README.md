@@ -2,8 +2,8 @@
 
 **Исходный код сайта [totemcraft.net](https://totemcraft.net)**
 
-Статический сайт ванильного Minecraft-сервера TotemCraft без вайпа, доната и приватов.  
-Написан на чистом HTML/CSS/JS без фреймворков. Форк [www-rpcs3](https://github.com/DAGINATSUKO/www-rpcs3).
+Ванильный Minecraft-сервер без вайпа, доната, приватов и лишних плагинов.  
+Форк [www-rpcs3](https://github.com/DAGINATSUKO/www-rpcs3).
 
 ---
 
